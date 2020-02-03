@@ -1,0 +1,7 @@
+You need to download 'lib' first.
+
+than conmmand line execution
+
+"python waremasks.py family.jpg myphoto.jpy"
+
+The first parameter is the photo address.The second parameter is the new image save address.
